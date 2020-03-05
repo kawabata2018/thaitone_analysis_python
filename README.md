@@ -34,3 +34,7 @@ pip install -r requirements.txt
 ```
 python analysis.py
 ```
+
+### 分析
+- 分析はこちらから  
+https://thaitone-e7817.web.app/analysis_ver2.html
