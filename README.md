@@ -12,15 +12,18 @@ https://cloud.google.com/storage/docs/listing-objects?hl=ja
 https://cloud.google.com/storage/docs/downloading-objects?hl=ja  
 
 ## 使い方
-### 下準備
-- python3系をインストール
-- `pip install -r requirements.txt` で必要なパッケージをインストール
+### 必要な環境
+- python3系
 
 ### 手順
 - 当レポジトリを適当な場所にクローン
 ```
 git clone https://github.com/kawabata2018/thaitone_analysis_python.git
+```
+- 必要なパッケージをインストール
+```
 cd thaitone_analysis
+pip install -r requirements.txt
 ```
 
 - Firebase Admin SDKの秘密鍵をダウンロード（取扱注意！）
